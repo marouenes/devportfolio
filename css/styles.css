@@ -1,17 +1,17 @@
 /*!
-    Title: Dev Portfolio Template
+    Title: Dev Portfolio
     Version: 1.2.2
     Last Change: 03/25/2020
     Author: Marouane Skandaji
-    Repo: https://github.com/RyanFitzgerald/devportfolio-template
-    Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
+    Repo: https://github.com/marouenes/devportfolio
+    Issues: https://github.com/marouenes/devportfolio/issues
 
     Description: This file contains all the styles associated with the page
     that don't come from third party libraries. This file gets compiled using
     Gulp and send to the /css folder which is then loaded on the page.
 */
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "courier new", sans-serif;
   font-size: 16px;
 }
 body.active {
@@ -80,7 +80,8 @@ header li {
 }
 header a {
   display: block;
-  color: #3498db;
+  /* color: #3498db; */
+  color: rgba(41, 62, 76, 0.8);
   padding: 10px;
 }
 header a:hover {
@@ -264,7 +265,7 @@ footer {
   right: 0;
   bottom: 0;
   left: 0;
-  background: rgba(33, 125, 187, 0.8);
+  background: rgba(41, 62, 76, 0.8);
   z-index: 1;
 }
 #lead-down {
@@ -336,7 +337,8 @@ footer {
   right: auto;
   height: 100%;
   width: 3px;
-  background: #3498db;
+  /* background: #3498db; */
+  background: #a0cfee;
   z-index: 0;
 }
 #experience-timeline:after {
@@ -344,8 +346,8 @@ footer {
   content: "";
   width: 3px;
   height: 40px;
-  background: #3498db;
-  background: linear-gradient(to bottom, #3498db, rgba(52, 152, 219, 0));
+  background: #a0cfee;
+  background: linear-gradient(to bottom, #a0cfee, rgba(52, 152, 219, 0));
   top: 100%;
   left: 303px;
 }
@@ -386,7 +388,7 @@ footer {
   color: #fff;
   width: 50px;
   height: 50px;
-  background: #3498db;
+  background: #a0cfee;
   border-radius: 50%;
   float: left;
   z-index: 99;
@@ -520,7 +522,8 @@ footer {
 }
 #contact {
   padding: 50px 15px;
-  background: #3498db;
+  /* background: #3498db; */
+  background: rgba(41, 62, 76, 0.8);
   text-align: center;
 }
 #contact h2 {
@@ -540,7 +543,8 @@ footer {
   border-radius: 4px;
   border: none;
   margin-bottom: 10px;
-  background: #1d6fa5;
+  /* background: #1d6fa5; */
+  background: rgba(41, 62, 76, 0.8);
   color: #fff;
   transition: 0.5s ease all;
 }
@@ -578,7 +582,8 @@ footer {
   border-radius: 4px;
   padding: 5px 10px;
   border: none;
-  color: #3498db;
+  /* color: #3498db; */
+  color: rgba(41, 62, 76, 0.8);
   font-weight: 700;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   transition: 0.5s ease all;
