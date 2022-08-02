@@ -1,10 +1,10 @@
 /*!
-    Title: Dev Portfolio Template
+    Title: Dev Portfolio
     Version: 1.2.2
     Last Change: 03/25/2020
     Author: Marouane Skandaji
-    Repo: https://github.com/RyanFitzgerald/devportfolio-template
-    Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
+    Repo: https://github.com/marouenes/devportfolio
+    Issues: https://github.com/marouenes/devportfolio/issues
 
     Description: This file contains all the scripts associated with the single-page
     portfolio website.

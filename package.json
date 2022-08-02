@@ -1,10 +1,11 @@
 {
-  "name": "devportfolio-template",
+  "name": "devportfolio",
   "version": "1.2.2",
   "description": "",
-  "main": "PORT=4000 js/scripts.js",
+  "main": "js/scripts.js",
   "scripts": {
-    "watch": "gulp watch"
+    "watch": "gulp watch",
+    "webserver": "gulp webserver"
   },
   "keywords": [
     "portfolio",
@@ -20,6 +21,7 @@
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
     "gulp": "^4.0.2",
+    "gulp-webserver": "^0.9.1",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-babel": "^8.0.0",
     "gulp-plumber": "^1.2.1",
