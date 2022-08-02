@@ -2,7 +2,7 @@
   "name": "devportfolio-template",
   "version": "1.2.2",
   "description": "",
-  "main": "js/scripts.js",
+  "main": "PORT=4000 js/scripts.js",
   "scripts": {
     "watch": "gulp watch"
   },
@@ -14,7 +14,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Marouane Skandaji",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",

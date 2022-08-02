@@ -40,6 +40,7 @@ Looking for a blog template? Checkout [DevBlog](https://github.com/RyanFitzgeral
 ## Setup and Configuration
 
 The setup required can be broken into two types:
+
 1. If you want to make edits or customize the template
 2. If you just want to add your information as use as is
 
