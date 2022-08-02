@@ -18,24 +18,24 @@ Looking for a blog template? Checkout [DevBlog](https://github.com/RyanFitzgeral
 
 ## Contents
 
-- [Setup and Configuration](#setup-and-configuration)
-    - [Making Edits / Customizing the Template](#making-edits--customizing-the-template)
-    - [Using the Template As Is](#using-the-template-as-is)
-- [Customization and Editing](#customization-and-editing)
-    - [General](#general)
-    - [Images](#images)
-    - [Header Section](#header-section)
-    - [Lead Section](#lead-section)
-    - [About Section](#about-section)
-    - [Experience Section](#experience-section)
-    - [Education Section](#education-section)
-    - [Projects Section](#projects-section)
-    - [Skills Section](#skills-section)
-    - [Contact Section](#contact-section)
-    - [Footer Section](#footer-section)
-    - [Optional Sections](#optional-sections)
-- [Changelog](#changelog)
-- [License](#license)
+* [Setup and Configuration](#setup-and-configuration)
+  * [Making Edits / Customizing the Template](#making-edits--customizing-the-template)
+  * [Using the Template As Is](#using-the-template-as-is)
+* [Customization and Editing](#customization-and-editing)
+  * [General](#general)
+  * [Images](#images)
+  * [Header Section](#header-section)
+  * [Lead Section](#lead-section)
+  * [About Section](#about-section)
+  * [Experience Section](#experience-section)
+  * [Education Section](#education-section)
+  * [Projects Section](#projects-section)
+  * [Skills Section](#skills-section)
+  * [Contact Section](#contact-section)
+  * [Footer Section](#footer-section)
+  * [Optional Sections](#optional-sections)
+* [Changelog](#changelog)
+* [License](#license)
 
 ## Setup and Configuration
 
@@ -258,6 +258,7 @@ Since the page is static, I opted to use the awesome Formspree to allow for a co
     <button type="submit">Send</button>
 </form>
 ```
+
 For more information on configuration of the contact form or dealing with errors, check out [Formspree](https://formspree.io/).
 
 For a quick tutorial about formspree, check out this [tutsplus tutorial](https://webdesign.tutsplus.com/tutorials/quick-tip-add-a-formspree-form-to-your-static-sites--cms-23870) that covers different aspects and features of the form tool.
