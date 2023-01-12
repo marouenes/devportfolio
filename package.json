@@ -1,10 +1,11 @@
 {
-  "name": "devportfolio-template",
+  "name": "devportfolio",
   "version": "1.2.2",
   "description": "",
   "main": "js/scripts.js",
   "scripts": {
-    "watch": "gulp watch"
+    "watch": "gulp watch",
+    "webserver": "gulp webserver"
   },
   "keywords": [
     "portfolio",
@@ -14,7 +15,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Marouane Skandaji",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
@@ -23,9 +24,12 @@
     "gulp-autoprefixer": "^7.0.1",
     "gulp-babel": "^8.0.0",
     "gulp-plumber": "^1.2.1",
+    "gulp-prettier": "^4.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.2",
-    "gulp-wait": "0.0.2"
+    "gulp-wait": "0.0.2",
+    "gulp-webserver": "^0.9.1",
+    "prettier": "^2.8.2"
   }
 }
