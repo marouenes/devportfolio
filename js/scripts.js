@@ -1,7 +1,7 @@
 /*!
     Title: Dev Portfolio
     Version: 1.2.2
-    Last Change: 03/25/2020
+    Last Change: 10/15/2024
     Author: Marouane Skandaji
     Repo: https://github.com/marouenes/devportfolio
     Issues: https://github.com/marouenes/devportfolio/issues
@@ -30,7 +30,7 @@
       {
         scrollTop: scrollDistance + "px",
       },
-      Math.abs(window.pageYOffset - $(heading).offset().top) / 1
+      Math.abs(window.scrollY - $(heading).offset().top) / 1
     );
 
     // Hide the menu once clicked if mobile
